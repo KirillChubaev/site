@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Кирилл Чубаев
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Кирилл
+last_name: Чубаев
 
 # Status emoji
 status:
@@ -20,65 +17,48 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: 18 лет
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Москва, Россия
+    url: https://www.rudn.ru
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mail:kirillchubaev8@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/mrchubaev
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/KirillChubaev
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Высшая математика
+  - Баскетбол и плавание
+  - Видеомонтаж
+  - Программирование
+  - Игра на гитаре
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Студент НММбд-01-24
+    institution: ФФМиЕН РУДН им. Патриса Лумумбы
+    date_start: 2024-09-01
+    date_end: 2028-06-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Спец. направление "Информатика и математика"
+    institution: Лицей МГУ им. Н. П. Огарёва (2022-2024)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -181,6 +161,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Обо мне
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Добро пожаловать на персональный сайт Чубаева Кирилла Евгеньевича. На данной странице вы можете ознакомиться с биографией, интересами и достижениями студента, а также прочитать его авторские статьи и личный блог. Для более подробной информации вы можете ознакомиться с резюме Кирилла внизу. Приятного просмотра!)

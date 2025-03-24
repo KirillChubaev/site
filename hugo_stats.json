@@ -42,9 +42,6 @@
       "path",
       "polygon",
       "pre",
-      "rb",
-      "rt",
-      "ruby",
       "script",
       "section",
       "source",
@@ -592,9 +589,8 @@
       "-click-here-to-become-a-sponsor-and-help-support-hugo-blox",
       "Layer_1",
       "TableOfContents",
-      "about-me",
       "callouts",
-      "chart-521674893",
+      "chart-139645728",
       "charts",
       "code",
       "crowd-funded-open-source-software",
@@ -646,7 +642,8 @@
       "themes",
       "todo-lists",
       "top",
-      "video"
+      "video",
+      "обо-мне"
     ]
   }
 }

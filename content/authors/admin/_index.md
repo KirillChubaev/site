@@ -22,7 +22,7 @@ role: 18 лет
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Москва, Россия
-    url: https://www.rudn.ru
+    url: https://www.mos.ru
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -43,7 +43,7 @@ interests:
   - Игра на гитаре
 
 education:
-  - area: Студент НММбд-01-24
+  - area: Направление "Математика и механика"
     institution: ФФМиЕН РУДН им. Патриса Лумумбы
     date_start: 2024-09-01
     date_end: 2028-06-30
